@@ -1,5 +1,7 @@
 # ObanMySQL
 
+A hard fork of https://github.com/hamptokr/oban_mysql
+
 **TODO: Add description**
 
 ## Installation
